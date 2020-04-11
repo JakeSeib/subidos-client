@@ -3,7 +3,7 @@ A SPA where users can upload images, browse both their own images and those shar
 
 To see more details about an image uploaded by a user, click on one of them from the index view. The modal that displays for that image will contain information on that image's owner, when the image was created and last updated, tags associated with that image, and (if the image is owned by you) options to delete the image or update the image's metadata- the image's name and tags.
 
-Also see: the [API Repo](https://github.com/Po-Ta-Toes/subidos-api) and the [deployed client](https://po-ta-toes.github.io/subidos-client/).
+Also see: the [API Repo](https://github.com/JakeSeib/subidos-api) and the [deployed client](https://jakeseib.github.io/subidos-client/).
 
 ## Technologies Used
 - **Javascript**: Frontend and backend
